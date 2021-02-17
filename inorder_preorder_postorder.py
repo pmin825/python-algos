@@ -1,4 +1,4 @@
-# O(n) time | O(n) space 
+# O(n) time | O(n) space
 
 def inOrderTraverse(tree, array):
     if tree is not None:
